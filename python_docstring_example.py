@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 class DocstringClassExample():
 	'''
 	DocstringClassExample() 예제 클래스
