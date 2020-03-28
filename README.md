@@ -28,4 +28,14 @@ T: 010-2935-6809
 
    https://doorbw.tistory.com/232
 
-3. 
+3. Pythonic
+
+   [03_pythonic_code.ipynb](./code_example/03_pythonic_code.ipynb)
+
+   
+
+   
+
+   
+
+   
