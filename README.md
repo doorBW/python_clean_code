@@ -22,15 +22,21 @@ T: 010-2935-6809
 
 1. Docstring
 
-   https://doorbw.tistory.com/231
-
+   https://doorbw.tistory.com/231   
+   
 2. Annotation
 
-   https://doorbw.tistory.com/232
-
+   https://doorbw.tistory.com/232   
+   
 3. Pythonic
 
-   [03_pythonic_code.ipynb](./code_example/03_pythonic_code.ipynb)
+   [03_pythonic_code.ipynb](./code_example/03_pythonic_code.ipynb)   
+      
+4. Abbreviations
+
+   https://doorbw.tistory.com/233   
+
+
 
    
 
