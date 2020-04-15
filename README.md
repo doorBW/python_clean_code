@@ -31,10 +31,14 @@ T: 010-2935-6809
 3. Pythonic
 
    [03_pythonic_code.ipynb](./code_example/03_pythonic_code.ipynb)   
-      
+   
 4. Abbreviations
 
    https://doorbw.tistory.com/233   
+   
+5. Inheritance & Composition
+
+   https://doorbw.tistory.com/234   
 
 
 
