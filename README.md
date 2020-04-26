@@ -44,6 +44,9 @@ T: 010-2935-6809
 
    https://doorbw.tistory.com/235   
 
+7. SOLID: SRP
+
+   https://doorbw.tistory.com/236   
 
 
    
