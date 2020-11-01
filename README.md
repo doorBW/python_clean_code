@@ -48,11 +48,9 @@ T: 010-2935-6809
 
    https://doorbw.tistory.com/236   
 
+8. SOLID: OCP
 
-   
-
-   
-
+   https://doorbw.tistory.com/237   
    
 
    
