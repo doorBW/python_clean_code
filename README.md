@@ -52,9 +52,13 @@ T: 010-2935-6809
 
    https://doorbw.tistory.com/237   
 
-8. SOLID: LSP
+9. SOLID: LSP
 
    https://doorbw.tistory.com/238   
+
+10. SOLID: ISP
+
+   https://doorbw.tistory.com/239   
    
 
    
