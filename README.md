@@ -59,6 +59,10 @@ T: 010-2935-6809
 10. SOLID: ISP
 
    https://doorbw.tistory.com/239   
+
+11. SOLID: DIP
+
+   https://doorbw.tistory.com/240   
    
 
    
